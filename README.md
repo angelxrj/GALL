@@ -1,1 +1,1 @@
-# GALL
+# GALL - Generalized Abs-linear learning
